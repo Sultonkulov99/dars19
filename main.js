@@ -2,4 +2,4 @@ function dev(a, b){
     return a + b;
 }
 
-console.log(dev(10,2))
+console.log(dev(1,2))
