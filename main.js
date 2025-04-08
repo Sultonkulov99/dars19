@@ -3,5 +3,5 @@ function sayHello(name){
 }
 
 
-console.log(sayHello("Muhammadrizo"))
+
 
