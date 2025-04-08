@@ -1,4 +1,3 @@
-let a = 12 
-
-let b = 23
-b = "salom"
+function dev(a,b){
+    return a + b
+}
