@@ -1,4 +1,14 @@
 #Git
+    git init
+    git status 
+    git add .
+    git add file-name
+    git add *.html
+    git commit -m "message"
+
+    git restore file-name  => orqaga qaytaradi
+    git rm file-name => file o'chiradi
+    
 
 #GitHub
 
