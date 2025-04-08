@@ -1,5 +1,3 @@
-function dev(a,b){
-    return a + b
+function dev(a, b){
+    return a + b;
 }
-
-Hellobro
