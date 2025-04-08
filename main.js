@@ -1,5 +1,7 @@
-function dev(a, b){
-    return a + b;
+function sayHello(name){
+    return `hi ${name}`
 }
 
-console.log(dev(1,2))
+
+console.log(sayHello("Muhammadrizo"))
+
