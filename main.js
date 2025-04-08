@@ -1,3 +1,9 @@
-function dev(a,b){
-    return a + b
+function dev(a,b,c){
+    return a + b+c
 }
+
+function matn(){
+    return "salom"
+}
+
+"faxriddin"
